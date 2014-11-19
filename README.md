@@ -1,11 +1,11 @@
 inherit.js
 ==========
 Description
-
+===========
 Use Inheritable and closure-enabled class 
 ==========
 Usage
-
+==========
   GrandParent.prototype = new Inherit();
   var grandParentInstance = new GrandParent();
   grandParentInstance.ctor(); 
